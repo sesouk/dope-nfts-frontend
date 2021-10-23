@@ -18,7 +18,7 @@ const networks = {
   "0x5": "Goerli",
 };
 
-const CONTRACT_ADDRESS = "0xb987b6c02D77943Aa097C0A49f65cc28aC8b9deF"
+const CONTRACT_ADDRESS = "0xB4aA3abEfad2afa5906ab682352535E9A7254744"
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState("")
@@ -201,7 +201,7 @@ const App = () => {
             href={TWITTER_LINK}
             target="_blank"
             rel="noreferrer"
-          >{`built on @${TWITTER_HANDLE}`}</a>
+          >{`built by @${TWITTER_HANDLE}`}</a>
         </div>
       </div>
     </div>
