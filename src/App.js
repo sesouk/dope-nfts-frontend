@@ -7,7 +7,7 @@ import myDopeNft from './utils/MyDopeNFT.json'
 // Constants
 const TWITTER_HANDLE = 'KevinDevelopin';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
-const OPENSEA_LINK = 'https://testnets.opensea.io/collection/dopenft-zloszkt9ka';
+const OPENSEA_LINK = 'https://testnets.opensea.io/collection/dopenft-hq80ujunyo';
 const TOTAL_MINT_COUNT = 50;
 
 const networks = {
